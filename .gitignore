@@ -1,0 +1,35 @@
+# Donnees massives (ne pas pousser sur GitHub)
+*.nii.gz
+brats_full_metrics.csv
+brats_metriques.csv
+results_calibration/brats_metriques.csv
+results_calibration/brats_outliers_detail.csv
+
+# Cache Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Environnements virtuels
+venv/
+env/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Tokens et secrets (NE JAMAIS COMMITER)
+token_temp.txt*
+*_secret*
+
+# Logs
+*.log
+
+# Figures temporaires (on garde figures_full pour la demo)
+*.tmp
