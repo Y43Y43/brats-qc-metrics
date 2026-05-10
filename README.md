@@ -320,7 +320,7 @@ Tests de Mann-Whitney U (BraTS vs ds000030) :
 
 
 
-Travail académique réalisé dans le cadre du cours DIC938R — Neuroinformatique (UQAM, doctorat en informatique cognitive). Réutilisation à des fins de recherche et d'enseignement autorisée avec citation :
+Travail académique, DIC938R — Neuroinformatique (UQAM, doctorat en informatique cognitive). Réutilisation à des fins de recherche et d'enseignement autorisée avec citation :
 
 
 
